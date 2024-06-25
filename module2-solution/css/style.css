@@ -34,7 +34,7 @@ p {
 div {
   position: relative;
   background-color: gray;
-  border: 1px solid black;
+  border: 3px solid black;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
