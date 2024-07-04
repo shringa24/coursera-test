@@ -30,11 +30,18 @@ body {
 
 #nav-list {
   margin-top: 10px;
+  background-color: #aaa;
+  border: 2px solid #aaa;
 }
 #nav-list a {
-  color: #951C49;
+  font-weight: bold;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  color: #000;
   text-align: center;
+  border: 2px solid #fff;
 }
+
 #nav-list a:hover {
   background: #E7E7E7;
 }
